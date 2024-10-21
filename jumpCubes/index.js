@@ -9,6 +9,11 @@ for(let x = 0; x < 257; x++){
 world.onPlayerJoin(({entity}) => {
     console.log("player joined");
     world.say(`${entity.player.name}\(${entity.player.userId}\)进入了地图`);
+    entity.player.dialog({
+        type: GameDialogType.TEXT,
+        title: "相关信息",
+        content: 'BGM: Night Snow\n注意: 千万不要用平板或手机玩'
+    });
     entity.player.spawnPoint.set(252, 50, 250)
     entity.player.forceRespawn()
 
