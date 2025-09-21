@@ -1,5 +1,14 @@
-[My dao3 profile](https://dao3.fun/profile/50436218)
+## News
+I've left Box3,
+it may be a long time.
 
-./jumpCubes/index.js has copied from [here](https://dao3.fun/exp/experience/detail/100266568)
+If you still see LiaoxyuCM is online in Box3,
+sorry that is not me.
 
-Enjoy it at dao3!
+This program has already stopped updating.
+
+> [My Box3 profile](https://dao3.fun/profile/50436218)
+
+> ./jumpCubes/index.js has copied from [here](https://dao3.fun/exp/experience/detail/100266568)
+
+> Enjoy it at dao3!
